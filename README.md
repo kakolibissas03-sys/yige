@@ -10,6 +10,7 @@
 kanjiji
 kanjiji
 kanjiji
+zheghe
 
 zheghe
 # hkanjiji
