@@ -11,6 +11,7 @@ kanjiji
 kanjiji
 kanjiji
 
+zheghe
 # hkanjiji
 enhao
 # henhao
